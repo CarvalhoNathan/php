@@ -20,8 +20,6 @@
 | **Avaliação do 2º bimestre → 16/11** | 📅 |
 | **Avaliação substitutiva → 30/11** | 📅 |
 
-> **Legenda:** ✅ Concluído | ⏳ Em andamento | 🔒 Bloqueado / Não iniciado | 📅 Data Importante
-
 ## Bibliografia
 
 - *php Programando com Orientação a Objetos* - Pablo Dall'Oglio - editora Novatec - 2014
