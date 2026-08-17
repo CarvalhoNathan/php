@@ -1,6 +1,6 @@
 # Resumo: Variáveis, Condicionais, Laços e Funções em PHP
 
-> **Data:** 13/08/2026 <br>
+> **Data:** 10/08/2026 <br>
 > **Módulo:** 01 - Fundamentos (Parte 2)
 
 ## 1. Manipulação de Variáveis e Tipagem
