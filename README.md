@@ -4,10 +4,10 @@
 | Conteúdo / Atividade | Status |
 | :--- | :---: |
 | Introdução ao PHP | ✅ |
-| Tipos de variáveis e operadores | ⏳ |
-| Estruturas de controle | 🔒 |
-| Funções e manipulação de arrays | 🔒 |
-| Conceitos de Programação Orientada a Objetos | 🔒 |
+| Tipos de variáveis e operadores | ✅ |
+| Estruturas de controle | ✅ |
+| Funções e manipulação de arrays | ✅ |
+| Conceitos de Programação Orientada a Objetos | ⏳ |
 | Classes, Objetos e Métodos Construtores | 🔒 |
 | Manipulação de dados utilizando PHP e HTML | 🔒 |
 | **Avaliação do 1º bimestre → 28/09** | 📅 |
